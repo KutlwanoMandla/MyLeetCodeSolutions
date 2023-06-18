@@ -1,2 +1,2 @@
 # MyLeetCodeSolutions
-This is where I will be posting my Leetcode solutions.
+Here are some of my LeetCode solutions that I have done during my 1st and 2nd year.
