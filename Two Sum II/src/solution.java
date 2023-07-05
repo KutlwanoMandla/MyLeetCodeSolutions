@@ -15,7 +15,6 @@ public class solution {
         }
         return result;
     }
-
     public static int binarySearch(int[]array, int target,int low,int high){
         if(high < low) return -1;
 
